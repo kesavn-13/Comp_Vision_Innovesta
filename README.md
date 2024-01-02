@@ -13,8 +13,8 @@
 3. Training 
 
 ### Dataset - 
-1.Preprocessing of images to extract just boundary from lid
-2.Approaches/Steps:
+1. Preprocessing of images to extract just boundary from lid
+2. Approaches/Steps:
 - Extract lid without background using colour of aluminium metal
 - Identify and extract contours using colour difference of casted and machines aluminium region of lid
 
